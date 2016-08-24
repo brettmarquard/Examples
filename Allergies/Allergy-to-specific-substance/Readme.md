@@ -1,4 +1,5 @@
-#Approval Status - Pending
+##Approval Status 
+* Approval Status: Pending
 * Example Task Force: Approved 4/10/2014
 * SDWG: Withdrawn from consideration since not clinically relevant.
 
@@ -15,8 +16,8 @@
 * This is an example of an allergy to a specific substance (cat hair) using UNII as terminology with information on both allergic reaction and reaction severity. See DSTU 219 for update regarding act/cod
 
 ###Custodian
-John D'Amore jdamore@diameterhealth.com (GitHub: jddamore)
+* John D'Amore jdamore@diameterhealth.com (GitHub: jddamore)
 
 
 ###Keywords
-substance, allergies, allergy
+* substance, allergies, allergy
