@@ -12,7 +12,7 @@
 * [SITE](https://sitenv.org/c-cda-validator)
 
 ###Comments
-*This is an example of an allergy to a specific substance (cat hair) using UNII as terminology with information on both allergic reaction and reaction severity. See DSTU 219 for update regarding act/cod
+* This is an example of an allergy to a specific substance (cat hair) using UNII as terminology with information on both allergic reaction and reaction severity. See DSTU 219 for update regarding act/cod
 
 ###Custodian
 John D'Amore jdamore@diameterhealth.com (GitHub: jddamore)
